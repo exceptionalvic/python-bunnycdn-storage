@@ -1,14 +1,14 @@
-# bunnycdn-storage
+# python-bunnycdn-storage
 
 This package provides Bunny.net file storage for Django.
 An improved and working version. Thanks to Will Meyers' [django-bunny-storage](https://github.com/willmeyers/django-bunny-storage).
 
 ## Package Installation
 
-`bunnycdn-storage` requires Python >= 3.7 and Django >= 3.0
+`python-bunnycdn-storage` requires Python >= 3.7 and Django >= 3.0
 
 ```bash
-pip install bunnycdn-storage
+pip install python-bunnycdn-storage
 ```
 
 ## Package Configuration
