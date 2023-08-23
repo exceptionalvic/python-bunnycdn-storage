@@ -12,6 +12,9 @@ __pycache__/
 # htmlcov/
 # .coverage
 
+# DOCS
+docs.txt
+
 
 # Distribution / packaging
 .Python
